@@ -31,6 +31,14 @@
 				<source>Limit</source>
 				<target>Limit</target>
 			</trans-unit>
+			<trans-unit id="saidOn" xml:space="preserve">
+				<source>said on</source>
+				<target>sagte am</target>
+			</trans-unit>
+			<trans-unit id="saidAt" xml:space="preserve">
+				<source>at</source>
+				<target>um</target>
+			</trans-unit>
 			<trans-unit id="formfield_name" xml:space="preserve">
 				<source>Name</source>
 				<target>Name</target>

@@ -5,13 +5,15 @@
 	</div>
 	<ul class="commentFrom">
 		<span class="text-yellow">{singleComment.name}</span>
-		<span class="text-muted">sagte am</span>
+		<span class="text-muted">
+			<f:translate id="LLL:EXT:ecomments/Resources/Private/Language/locallang_db.xlf:saidOn" />
+		</span>
 		<span class="text-yellow"><f:format.date format="d.n.Y">{singleComment.crdate}</f:format.date></span>
-		<span class="text-muted">um</span>
+		<span class="text-muted">
+			<f:translate id="LLL:EXT:ecomments/Resources/Private/Language/locallang_db.xlf:saidAt" />
+		</span>
 		<span class="text-yellow"><f:format.date format="H:i">{singleComment.crdate}</f:format.date></span>
 		<br />
-	
-	
 		<span class="shortString text-muted"><f:format.crop maxCharacters="50">{singleComment.content}</f:format.crop></span>
 		<span class="fullString text-muted" style="display:none;">{singleComment.content}</span>
 		<br />
