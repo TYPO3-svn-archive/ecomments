@@ -16,7 +16,7 @@
 				<source>Comments</source>		
 			</trans-unit>
 			<trans-unit id="tx_ecomments_enable_comments" xml:space="preserve">
-				<source>Enable Comments</source>
+				<source>Enable comments</source>
 			</trans-unit>
 			<trans-unit id="tx_ecomments_enable_comments.description" xml:space="preserve">
 				<source>Enables comments below this record</source>

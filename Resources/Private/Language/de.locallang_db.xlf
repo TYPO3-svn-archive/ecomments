@@ -20,7 +20,7 @@
 				<target>Kommentare</target>
 			</trans-unit>
 			<trans-unit id="tx_ecomments_enable_comments">
-				<source>Enable Comments</source>
+				<source>Enable comments</source>
 				<target>Kommentare aktivieren</target>
 			</trans-unit>
 			<trans-unit id="tx_ecomments_enable_comments.description" xml:space="preserve">
